@@ -4,6 +4,10 @@
 
 ## 마치 jupyter notebook과 비슷한 마크다운이군요!
 
+그래서 <b>지금</b> 뭐 할거냐면요
+
+휴일에 하루에 15시간 코딩 루틴 지속하기ㄱㄱ
+
 <!--
 **JonghunCHAE/JonghunCHAE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
