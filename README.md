@@ -16,11 +16,11 @@
 - 리액트를 다루는 기술
 - <b>프론트엔드 개발자를 위한 자바스크립트<b>
 - <b>스무디 한 잔 마시며 끝내는 React Native</b>
-
+- <b> 자바 ORM 표준 JPA 프로그래밍</b>
 
 ### 예정 도장깨기 책
 * 실전! 스프링 5와 Vue.js 2로 시작하는 모덴 웹 애플리케이션 개발 : 스프링 부트와 Vuex를 활용한 실습 중심의 풀스택 웹 애플리케이션 개발
-* 자바 ORM 표준 JPA 프로그래밍
+
 
 <!--
 **JonghunCHAE/JonghunCHAE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
